@@ -4,7 +4,6 @@
 
 @media screen and (max-width: 568px) {
   .place__website {
-    box-sizing: border-box;
-    padding: 0 16px;
+    margin: 0 16px;
   }
 }

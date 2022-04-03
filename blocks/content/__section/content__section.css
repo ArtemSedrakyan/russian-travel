@@ -9,8 +9,3 @@
   }
 }
 
-@media screen and (max-width: 568px) {
-  .content__section {
-    padding: 0;
-  }
-}
